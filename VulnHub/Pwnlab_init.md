@@ -57,7 +57,7 @@ Login to the web with one of the users found in the database, I selected kent. A
 
 I created a shell gif that contains a valid GIF header and a line of code (payload) that executes any command via POST parameter "cmd".
 
-<img width="644" height="367" alt="image" src="https://github.com/user-attachments/assets/cfc91fbb-b63a-4da3-b6c0-59aef0c9eb86" />
+<img width="637" height="223" alt="image" src="https://github.com/user-attachments/assets/e0076806-9dde-4517-87f4-3b93fc45311d" />
 
 
 Select the path of the gif on the website and trigger the payload in upload shell.gid by using the "lang" cookie flag in the index.php.
@@ -114,3 +114,4 @@ Got root access!!! Now navigate through the directories until you are in the roo
 CATCH THE FLAG!!!!
 
 <img width="695" height="499" alt="image" src="https://github.com/user-attachments/assets/ce3306fa-a3df-46f2-9e6f-760f84c16afb" />
+
